@@ -1,4 +1,4 @@
-# Este archivo contiene las plantillas de los algoritmos de busqueda que seran implementados e para encontrar rutas dentro del sistema de transporte
+# Este archivo contiene las plantillas de los algoritmos de busqueda que seran implementados para encontrar rutas dentro del sistema de transporte
 # Se contempla el uso de:
 #   *Busqueda en anchura
 #   *Busqueda en profundidad
@@ -20,7 +20,7 @@ def busqueda_profundidad(grafo,origen,destino):
 
 
 
-def Busqueda_Astar(grafo,origen,destino):
+def Busqueda_astar(grafo,origen,destino):
 
 
 
